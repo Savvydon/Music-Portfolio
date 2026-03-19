@@ -11,7 +11,7 @@ export default function Contact() {
   const whatsappNumber = "+2348063746319";
   const whatsappLink = `https://wa.me/${whatsappNumber.replace(/\D/g, "")}`;
 
-  const phoneNumbers = ["+2348063746319", "+234903557712"];
+  const phoneNumbers = ["+2348063746319", "+2349039987874"];
 
   return (
     <Container className="my-5">

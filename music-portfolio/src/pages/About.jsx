@@ -17,7 +17,7 @@ export default function About() {
           />
         </Col>
         <Col md={6}>
-          <h2>About Us</h2>
+          <h2>About Me</h2>
           <p>
             CROWN PIANO STUDIO Where Sound Meets Excellence At Crown Piano
             Studio, we turn your musical ideas into powerful, professional

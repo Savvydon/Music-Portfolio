@@ -24,8 +24,8 @@ export default function Home() {
         <Container>
           <h1>Welcome to Our Website</h1>
           <p>
-            We provide high-quality solutions tailored to your needs. Explore
-            our services and discover how we can help you grow.
+            I provide high-quality solutions tailored to your needs. Explore my
+            services and discover how I can help you grow.
           </p>
           <Button variant="primary">Get Started</Button>
         </Container>
@@ -43,9 +43,9 @@ export default function Home() {
           <Col md={6}>
             <h2>Who We Are</h2>
             <p>
-              We are a team of professionals dedicated to delivering excellence
-              in every project we undertake. Our focus is innovation, quality,
-              and customer satisfaction.
+              I am a professional musical inclined individual who is dedicated
+              to delivering excellence in every project I undertake. My focus is
+              innovation, quality, and customer satisfaction.
             </p>
           </Col>
         </Row>
