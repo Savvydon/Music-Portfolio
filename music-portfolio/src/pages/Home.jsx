@@ -2,7 +2,7 @@ import { useRef } from "react";
 import { Container, Row, Col, Button } from "react-bootstrap";
 import heroImg from "../assets/opened.jpg";
 import promoVideo from "../assets/vid1.mp4";
-import promoVideo2 from "../assets/vid2.mp4";
+import promoVideo2 from "../assets/Vid2.mp4";
 import promoVideo3 from "../assets/vid3.mp4";
 
 export default function Home() {
