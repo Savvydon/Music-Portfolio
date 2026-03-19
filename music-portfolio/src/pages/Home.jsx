@@ -22,7 +22,7 @@ export default function Home() {
     <>
       <div className="bg-light p-5 text-center">
         <Container>
-          <h1>Welcome to Our Website</h1>
+          <h1>Welcome to Crown Piano Studio</h1>
           <p>
             I provide high-quality solutions tailored to your needs. Explore my
             services and discover how I can help you grow.
@@ -41,7 +41,7 @@ export default function Home() {
             />
           </Col>
           <Col md={6}>
-            <h2>Who We Are</h2>
+            <h2>Professional Summary</h2>
             <p>
               I am a professional musical inclined individual who is dedicated
               to delivering excellence in every project I undertake. My focus is
