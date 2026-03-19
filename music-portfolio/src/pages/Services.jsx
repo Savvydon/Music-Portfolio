@@ -37,15 +37,15 @@ export default function Services() {
       img: service3,
       title: "Overall Services",
       description:
-        "Elevate Your Sound with Expert Music Services from recording to performance, we offer top-notch music services to help you create, refine, and showcase your sound. Our services include professional recording, production, training, and more. Let's bring your music to life! 😊",
+        "Elevate Your Sound with Expert Music Services from recording to performance, we offer top-notch music services to help you create, refine, and showcase your sound. Our services include professional recording, production, training, and more. Let's bring your music to life! By: 😊",
       bullets: [
-        "Vocal recording",
-        "Instrumental recording",
-        "Multi-track recording",
+        "Capturing your unique voice with our state-of-the-art recording facilities and expert engineers",
+        "Take your skills to the next level with our personalized training programs",
+        "Give you sound that resonates with your audience",
         "Session management and production",
       ],
       footer:
-        "We create a comfortable environment so you can perform at your best.",
+        "At our studio, we're passionate about helping you achieve your musical goals. Let's work together to create something amazing. 😊",
     },
   ];
 
