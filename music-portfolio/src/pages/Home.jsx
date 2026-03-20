@@ -55,6 +55,7 @@ export default function Home() {
             />
           </Col>
           <Col md={6}>
+            {/* professional summary */}
             <h2>Professional Summary</h2>
             <p>
               Crown Piano Studio is a modern music production and recording
