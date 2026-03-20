@@ -1,5 +1,5 @@
 import { Container, Row, Col } from "react-bootstrap";
-import aboutImg from "../assets/Pf.jpeg";
+import aboutImg from "../assets/Pf1.jpeg";
 
 export default function About() {
   return (

@@ -47,6 +47,10 @@ export default function Home() {
             <img
               src={heroImg}
               alt="Hero"
+              style={{
+                clipPath: "circle()",
+                objectFit: "cover",
+              }}
               className="img-fluid rounded w-75 mx-auto d-block"
             />
           </Col>
