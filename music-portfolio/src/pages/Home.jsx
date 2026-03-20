@@ -1,9 +1,12 @@
 import { useRef } from "react";
 import { Container, Row, Col, Button } from "react-bootstrap";
-import heroImg from "../assets/opened.jpg";
+import heroImg from "../assets/Pf.jpg";
 import promoVideo from "../../public/Vid1.mp4";
 import promoVideo2 from "../../public/Vid2.mp4";
 import promoVideo3 from "../../public/vid3.mp4";
+import promoVideo4 from "../../public/Vid4.mp4";
+import promoVideo5 from "../../public/vid5.mp4";
+import promoVideo6 from "../../public/vid6.mp4";
 
 export default function Home() {
   const videoRefs = useRef([]);
@@ -16,7 +19,14 @@ export default function Home() {
     });
   };
 
-  const videos = [promoVideo, promoVideo2, promoVideo3];
+  const videos = [
+    promoVideo,
+    promoVideo2,
+    promoVideo3,
+    promoVideo4,
+    promoVideo5,
+    promoVideo6,
+  ];
 
   return (
     <>
@@ -43,9 +53,18 @@ export default function Home() {
           <Col md={6}>
             <h2>Professional Summary</h2>
             <p>
-              I am a professional musical inclined individual who is dedicated
-              to delivering excellence in every project I undertake. My focus is
-              innovation, quality, and customer satisfaction.
+              Crown Piano Studio is a modern music production and recording
+              space dedicated to delivering high-quality sound and musical
+              excellence. The studio provides a creative environment for
+              artists, singers, instrumentalists, and producers to bring their
+              ideas to life.
+            </p>
+            <p>
+              With a focus on piano-based music, vocal recording, and full music
+              production, Crown Piano Studio offers services such as recording,
+              mixing, mastering, beat production, and music training. The studio
+              is designed to inspire creativity while maintaining professional
+              standards that meet both local and international music demands.
             </p>
           </Col>
         </Row>
