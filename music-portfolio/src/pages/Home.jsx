@@ -5,7 +5,7 @@ import promoVideo from "../../public/Vid1.mp4";
 import promoVideo2 from "../../public/Vid2.mp4";
 import promoVideo3 from "../../public/vid3.mp4";
 import promoVideo4 from "../../public/Vid4.mp4";
-import promoVideo5 from "../../public/vid5.mp4";
+import promoVideo5 from "../../public/Vid5.mp4";
 import promoVideo6 from "../../public/vid6.mp4";
 
 export default function Home() {
